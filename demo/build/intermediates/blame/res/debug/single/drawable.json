@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\xrtz\\RongIM\\demo\\build\\intermediates\\res\\merged\\debug\\drawable\\recorder_delete_icon.xml",
+        "source": "D:\\xrtz\\RongIM\\demo\\res\\drawable\\recorder_delete_icon.xml"
+    },
+    {
+        "merged": "D:\\xrtz\\RongIM\\demo\\build\\intermediates\\res\\merged\\debug\\drawable\\recorder_rotate_icon.xml",
+        "source": "D:\\xrtz\\RongIM\\demo\\res\\drawable\\recorder_rotate_icon.xml"
+    },
+    {
+        "merged": "D:\\xrtz\\RongIM\\demo\\build\\intermediates\\res\\merged\\debug\\drawable\\recorder_flash_icon.xml",
+        "source": "D:\\xrtz\\RongIM\\demo\\res\\drawable\\recorder_flash_icon.xml"
+    }
+]

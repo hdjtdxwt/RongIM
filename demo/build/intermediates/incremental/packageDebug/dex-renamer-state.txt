@@ -1,0 +1,7 @@
+#Wed Nov 09 15:22:47 CST 2016
+base.0=D\:\\xrtz\\RongIM\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_58e71e6480c4050bb833d1e5de2dfca7b538a90a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\xrtz\\RongIM\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c24a6829136f6240be0b596e54dff05702a65efd\\classes.dex
+base.1=D\:\\xrtz\\RongIM\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c24a6829136f6240be0b596e54dff05702a65efd
+file.0=D\:\\xrtz\\RongIM\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_58e71e6480c4050bb833d1e5de2dfca7b538a90a\\classes.dex

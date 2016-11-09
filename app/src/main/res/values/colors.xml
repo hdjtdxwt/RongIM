@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00D8C9</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="color_text_white">@color/colorAccent</color>
+    <color name="selector_tabtext">#ffff89</color>
+    <color name="light_colorPrimary">#F5FBFB</color>
+    <color name="light_itemdivider_color">#F0F7F6</color>
+    <color name="yellow_textcolor_lookingnum">#FFAC6D</color>
+    <color name="recorder_bg_new">#00000000</color>
+    <color name="text_whitecolor">@color/color_text_white</color>
+    <color name="color_EEEEEE">#EEEEEE</color>
+
+    <color name="color_transparent_half">#19847672</color>
+
+</resources>

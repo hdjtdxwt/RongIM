@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\xrtz\\RongIM\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\camera_activity.xml",
+        "source": "D:\\xrtz\\RongIM\\demo\\res\\layout\\camera_activity.xml"
+    },
+    {
+        "merged": "D:\\xrtz\\RongIM\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\demo_activity.xml",
+        "source": "D:\\xrtz\\RongIM\\demo\\res\\layout\\demo_activity.xml"
+    },
+    {
+        "merged": "D:\\xrtz\\RongIM\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\camera_bottombar.xml",
+        "source": "D:\\xrtz\\RongIM\\demo\\res\\layout\\camera_bottombar.xml"
+    },
+    {
+        "merged": "D:\\xrtz\\RongIM\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\camera_titlebar.xml",
+        "source": "D:\\xrtz\\RongIM\\demo\\res\\layout\\camera_titlebar.xml"
+    }
+]

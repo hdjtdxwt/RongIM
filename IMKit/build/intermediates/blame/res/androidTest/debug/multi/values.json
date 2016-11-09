@@ -1,0 +1,3957 @@
+[
+    {
+        "outputFile": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 131,
+                    "endColumn": 24,
+                    "endOffset": 4322
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 131,
+                        "endColumn": 24,
+                        "endOffset": 4322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 4327,
+                    "endLine": 261,
+                    "endColumn": 12,
+                    "endOffset": 9213
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 4327,
+                        "endLine": 261,
+                        "endColumn": 12,
+                        "endOffset": 9213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 9218,
+                    "endColumn": 60,
+                    "endOffset": 9274
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 4,
+                        "startOffset": 9218,
+                        "endColumn": 60,
+                        "endOffset": 9274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 9279,
+                    "endColumn": 53,
+                    "endOffset": 9328
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 9279,
+                        "endColumn": 53,
+                        "endOffset": 9328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 9333,
+                    "endColumn": 44,
+                    "endOffset": 9373
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 9333,
+                        "endColumn": 44,
+                        "endOffset": 9373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 9378,
+                    "endColumn": 45,
+                    "endOffset": 9419
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 9378,
+                        "endColumn": 45,
+                        "endOffset": 9419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 9424,
+                    "endColumn": 56,
+                    "endOffset": 9476
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 266,
+                        "startColumn": 4,
+                        "startOffset": 9424,
+                        "endColumn": 56,
+                        "endOffset": 9476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 9481,
+                    "endColumn": 48,
+                    "endOffset": 9525
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 267,
+                        "startColumn": 4,
+                        "startOffset": 9481,
+                        "endColumn": 48,
+                        "endOffset": 9525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 9530,
+                    "endColumn": 45,
+                    "endOffset": 9571
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 9530,
+                        "endColumn": 45,
+                        "endOffset": 9571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 9576,
+                    "endColumn": 54,
+                    "endOffset": 9626
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 269,
+                        "startColumn": 4,
+                        "startOffset": 9576,
+                        "endColumn": 54,
+                        "endOffset": 9626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 9631,
+                    "endColumn": 46,
+                    "endOffset": 9673
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 270,
+                        "startColumn": 4,
+                        "startOffset": 9631,
+                        "endColumn": 46,
+                        "endOffset": 9673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 9678,
+                    "endColumn": 52,
+                    "endOffset": 9726
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 9678,
+                        "endColumn": 52,
+                        "endOffset": 9726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 9731,
+                    "endColumn": 48,
+                    "endOffset": 9775
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 9731,
+                        "endColumn": 48,
+                        "endOffset": 9775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 9780,
+                    "endColumn": 53,
+                    "endOffset": 9829
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 273,
+                        "startColumn": 4,
+                        "startOffset": 9780,
+                        "endColumn": 53,
+                        "endOffset": 9829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 9834,
+                    "endColumn": 52,
+                    "endOffset": 9882
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 274,
+                        "startColumn": 4,
+                        "startOffset": 9834,
+                        "endColumn": 52,
+                        "endOffset": 9882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 9887,
+                    "endColumn": 47,
+                    "endOffset": 9930
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 9887,
+                        "endColumn": 47,
+                        "endOffset": 9930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 9935,
+                    "endColumn": 55,
+                    "endOffset": 9986
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 9935,
+                        "endColumn": 55,
+                        "endOffset": 9986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 9991,
+                    "endColumn": 76,
+                    "endOffset": 10063
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 277,
+                        "startColumn": 4,
+                        "startOffset": 9991,
+                        "endColumn": 76,
+                        "endOffset": 10063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 10068,
+                    "endColumn": 57,
+                    "endOffset": 10121
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 4,
+                        "startOffset": 10068,
+                        "endColumn": 57,
+                        "endOffset": 10121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 10126,
+                    "endColumn": 56,
+                    "endOffset": 10178
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 10126,
+                        "endColumn": 56,
+                        "endOffset": 10178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 10183,
+                    "endColumn": 47,
+                    "endOffset": 10226
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 280,
+                        "startColumn": 4,
+                        "startOffset": 10183,
+                        "endColumn": 47,
+                        "endOffset": 10226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 10231,
+                    "endColumn": 48,
+                    "endOffset": 10275
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 281,
+                        "startColumn": 4,
+                        "startOffset": 10231,
+                        "endColumn": 48,
+                        "endOffset": 10275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 11853,
+                    "endColumn": 61,
+                    "endOffset": 11910
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 305,
+                        "startColumn": 4,
+                        "startOffset": 11853,
+                        "endColumn": 61,
+                        "endOffset": 11910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 11915,
+                    "endColumn": 61,
+                    "endOffset": 11972
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 306,
+                        "startColumn": 4,
+                        "startOffset": 11915,
+                        "endColumn": 61,
+                        "endOffset": 11972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 11977,
+                    "endColumn": 64,
+                    "endOffset": 12037
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 307,
+                        "startColumn": 4,
+                        "startOffset": 11977,
+                        "endColumn": 64,
+                        "endOffset": 12037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 12042,
+                    "endColumn": 41,
+                    "endOffset": 12079
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 308,
+                        "startColumn": 4,
+                        "startOffset": 12042,
+                        "endColumn": 41,
+                        "endOffset": 12079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 12084,
+                    "endColumn": 36,
+                    "endOffset": 12116
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 309,
+                        "startColumn": 4,
+                        "startOffset": 12084,
+                        "endColumn": 36,
+                        "endOffset": 12116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 12121,
+                    "endColumn": 42,
+                    "endOffset": 12159
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 310,
+                        "startColumn": 4,
+                        "startOffset": 12121,
+                        "endColumn": 42,
+                        "endOffset": 12159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 12164,
+                    "endColumn": 38,
+                    "endOffset": 12198
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 311,
+                        "startColumn": 4,
+                        "startOffset": 12164,
+                        "endColumn": 38,
+                        "endOffset": 12198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 12203,
+                    "endColumn": 40,
+                    "endOffset": 12239
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 312,
+                        "startColumn": 4,
+                        "startOffset": 12203,
+                        "endColumn": 40,
+                        "endOffset": 12239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 12244,
+                    "endColumn": 39,
+                    "endOffset": 12279
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 313,
+                        "startColumn": 4,
+                        "startOffset": 12244,
+                        "endColumn": 39,
+                        "endOffset": 12279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 12284,
+                    "endColumn": 52,
+                    "endOffset": 12332
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 314,
+                        "startColumn": 4,
+                        "startOffset": 12284,
+                        "endColumn": 52,
+                        "endOffset": 12332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 12337,
+                    "endColumn": 54,
+                    "endOffset": 12387
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 315,
+                        "startColumn": 4,
+                        "startOffset": 12337,
+                        "endColumn": 54,
+                        "endOffset": 12387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 12392,
+                    "endColumn": 51,
+                    "endOffset": 12439
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 316,
+                        "startColumn": 4,
+                        "startOffset": 12392,
+                        "endColumn": 51,
+                        "endOffset": 12439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 12444,
+                    "endColumn": 49,
+                    "endOffset": 12489
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 317,
+                        "startColumn": 4,
+                        "startOffset": 12444,
+                        "endColumn": 49,
+                        "endOffset": 12489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 12494,
+                    "endColumn": 50,
+                    "endOffset": 12540
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 318,
+                        "startColumn": 4,
+                        "startOffset": 12494,
+                        "endColumn": 50,
+                        "endOffset": 12540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 12545,
+                    "endColumn": 40,
+                    "endOffset": 12581
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 319,
+                        "startColumn": 4,
+                        "startOffset": 12545,
+                        "endColumn": 40,
+                        "endOffset": 12581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 12586,
+                    "endColumn": 37,
+                    "endOffset": 12619
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 320,
+                        "startColumn": 4,
+                        "startOffset": 12586,
+                        "endColumn": 37,
+                        "endOffset": 12619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 12624,
+                    "endColumn": 36,
+                    "endOffset": 12656
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 321,
+                        "startColumn": 4,
+                        "startOffset": 12624,
+                        "endColumn": 36,
+                        "endOffset": 12656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 12661,
+                    "endColumn": 35,
+                    "endOffset": 12692
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 322,
+                        "startColumn": 4,
+                        "startOffset": 12661,
+                        "endColumn": 35,
+                        "endOffset": 12692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 12697,
+                    "endColumn": 47,
+                    "endOffset": 12740
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 323,
+                        "startColumn": 4,
+                        "startOffset": 12697,
+                        "endColumn": 47,
+                        "endOffset": 12740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 12745,
+                    "endColumn": 42,
+                    "endOffset": 12783
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 324,
+                        "startColumn": 4,
+                        "startOffset": 12745,
+                        "endColumn": 42,
+                        "endOffset": 12783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 12788,
+                    "endColumn": 44,
+                    "endOffset": 12828
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 325,
+                        "startColumn": 4,
+                        "startOffset": 12788,
+                        "endColumn": 44,
+                        "endOffset": 12828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 12833,
+                    "endColumn": 37,
+                    "endOffset": 12866
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 326,
+                        "startColumn": 4,
+                        "startOffset": 12833,
+                        "endColumn": 37,
+                        "endOffset": 12866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 12871,
+                    "endColumn": 37,
+                    "endOffset": 12904
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 327,
+                        "startColumn": 4,
+                        "startOffset": 12871,
+                        "endColumn": 37,
+                        "endOffset": 12904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 12909,
+                    "endColumn": 37,
+                    "endOffset": 12942
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 328,
+                        "startColumn": 4,
+                        "startOffset": 12909,
+                        "endColumn": 37,
+                        "endOffset": 12942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 12947,
+                    "endColumn": 37,
+                    "endOffset": 12980
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 329,
+                        "startColumn": 4,
+                        "startOffset": 12947,
+                        "endColumn": 37,
+                        "endOffset": 12980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 12985,
+                    "endColumn": 37,
+                    "endOffset": 13018
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 330,
+                        "startColumn": 4,
+                        "startOffset": 12985,
+                        "endColumn": 37,
+                        "endOffset": 13018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 13023,
+                    "endColumn": 37,
+                    "endOffset": 13056
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 331,
+                        "startColumn": 4,
+                        "startOffset": 13023,
+                        "endColumn": 37,
+                        "endOffset": 13056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 13061,
+                    "endColumn": 37,
+                    "endOffset": 13094
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 332,
+                        "startColumn": 4,
+                        "startOffset": 13061,
+                        "endColumn": 37,
+                        "endOffset": 13094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 13099,
+                    "endColumn": 37,
+                    "endOffset": 13132
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 333,
+                        "startColumn": 4,
+                        "startOffset": 13099,
+                        "endColumn": 37,
+                        "endOffset": 13132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 13137,
+                    "endColumn": 37,
+                    "endOffset": 13170
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 334,
+                        "startColumn": 4,
+                        "startOffset": 13137,
+                        "endColumn": 37,
+                        "endOffset": 13170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 13175,
+                    "endColumn": 37,
+                    "endOffset": 13208
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 335,
+                        "startColumn": 4,
+                        "startOffset": 13175,
+                        "endColumn": 37,
+                        "endOffset": 13208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 13213,
+                    "endColumn": 49,
+                    "endOffset": 13258
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 336,
+                        "startColumn": 4,
+                        "startOffset": 13213,
+                        "endColumn": 49,
+                        "endOffset": 13258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 13263,
+                    "endColumn": 38,
+                    "endOffset": 13297
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 337,
+                        "startColumn": 4,
+                        "startOffset": 13263,
+                        "endColumn": 38,
+                        "endOffset": 13297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 13302,
+                    "endColumn": 36,
+                    "endOffset": 13334
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 338,
+                        "startColumn": 4,
+                        "startOffset": 13302,
+                        "endColumn": 36,
+                        "endOffset": 13334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 13339,
+                    "endColumn": 36,
+                    "endOffset": 13371
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 339,
+                        "startColumn": 4,
+                        "startOffset": 13339,
+                        "endColumn": 36,
+                        "endOffset": 13371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 13376,
+                    "endColumn": 36,
+                    "endOffset": 13408
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 340,
+                        "startColumn": 4,
+                        "startOffset": 13376,
+                        "endColumn": 36,
+                        "endOffset": 13408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 13413,
+                    "endColumn": 51,
+                    "endOffset": 13460
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 341,
+                        "startColumn": 4,
+                        "startOffset": 13413,
+                        "endColumn": 51,
+                        "endOffset": 13460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 13465,
+                    "endColumn": 35,
+                    "endOffset": 13496
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 342,
+                        "startColumn": 4,
+                        "startOffset": 13465,
+                        "endColumn": 35,
+                        "endOffset": 13496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 13501,
+                    "endColumn": 35,
+                    "endOffset": 13532
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 343,
+                        "startColumn": 4,
+                        "startOffset": 13501,
+                        "endColumn": 35,
+                        "endOffset": 13532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 13537,
+                    "endColumn": 37,
+                    "endOffset": 13570
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 344,
+                        "startColumn": 4,
+                        "startOffset": 13537,
+                        "endColumn": 37,
+                        "endOffset": 13570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 13575,
+                    "endColumn": 40,
+                    "endOffset": 13611
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 345,
+                        "startColumn": 4,
+                        "startOffset": 13575,
+                        "endColumn": 40,
+                        "endOffset": 13611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 13616,
+                    "endColumn": 46,
+                    "endOffset": 13658
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 346,
+                        "startColumn": 4,
+                        "startOffset": 13616,
+                        "endColumn": 46,
+                        "endOffset": 13658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 13663,
+                    "endColumn": 40,
+                    "endOffset": 13699
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 347,
+                        "startColumn": 4,
+                        "startOffset": 13663,
+                        "endColumn": 40,
+                        "endOffset": 13699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 13704,
+                    "endColumn": 44,
+                    "endOffset": 13744
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 348,
+                        "startColumn": 4,
+                        "startOffset": 13704,
+                        "endColumn": 44,
+                        "endOffset": 13744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 13749,
+                    "endColumn": 37,
+                    "endOffset": 13782
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 349,
+                        "startColumn": 4,
+                        "startOffset": 13749,
+                        "endColumn": 37,
+                        "endOffset": 13782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 13787,
+                    "endColumn": 36,
+                    "endOffset": 13819
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 350,
+                        "startColumn": 4,
+                        "startOffset": 13787,
+                        "endColumn": 36,
+                        "endOffset": 13819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 13824,
+                    "endColumn": 43,
+                    "endOffset": 13863
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 351,
+                        "startColumn": 4,
+                        "startOffset": 13824,
+                        "endColumn": 43,
+                        "endOffset": 13863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 13868,
+                    "endColumn": 36,
+                    "endOffset": 13900
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 352,
+                        "startColumn": 4,
+                        "startOffset": 13868,
+                        "endColumn": 36,
+                        "endOffset": 13900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 13905,
+                    "endColumn": 37,
+                    "endOffset": 13938
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 353,
+                        "startColumn": 4,
+                        "startOffset": 13905,
+                        "endColumn": 37,
+                        "endOffset": 13938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 13943,
+                    "endColumn": 44,
+                    "endOffset": 13983
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 354,
+                        "startColumn": 4,
+                        "startOffset": 13943,
+                        "endColumn": 44,
+                        "endOffset": 13983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 13988,
+                    "endColumn": 35,
+                    "endOffset": 14019
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 355,
+                        "startColumn": 4,
+                        "startOffset": 13988,
+                        "endColumn": 35,
+                        "endOffset": 14019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 14024,
+                    "endColumn": 46,
+                    "endOffset": 14066
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 356,
+                        "startColumn": 4,
+                        "startOffset": 14024,
+                        "endColumn": 46,
+                        "endOffset": 14066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 14071,
+                    "endColumn": 52,
+                    "endOffset": 14119
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 357,
+                        "startColumn": 4,
+                        "startOffset": 14071,
+                        "endColumn": 52,
+                        "endOffset": 14119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 14124,
+                    "endColumn": 39,
+                    "endOffset": 14159
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 358,
+                        "startColumn": 4,
+                        "startOffset": 14124,
+                        "endColumn": 39,
+                        "endOffset": 14159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 14164,
+                    "endColumn": 61,
+                    "endOffset": 14221
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 359,
+                        "startColumn": 4,
+                        "startOffset": 14164,
+                        "endColumn": 61,
+                        "endOffset": 14221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 14226,
+                    "endColumn": 69,
+                    "endOffset": 14291
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 360,
+                        "startColumn": 4,
+                        "startOffset": 14226,
+                        "endColumn": 69,
+                        "endOffset": 14291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 14296,
+                    "endColumn": 70,
+                    "endOffset": 14362
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 361,
+                        "startColumn": 4,
+                        "startOffset": 14296,
+                        "endColumn": 70,
+                        "endOffset": 14362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 14367,
+                    "endColumn": 49,
+                    "endOffset": 14412
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 362,
+                        "startColumn": 4,
+                        "startOffset": 14367,
+                        "endColumn": 49,
+                        "endOffset": 14412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 14417,
+                    "endColumn": 47,
+                    "endOffset": 14460
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 363,
+                        "startColumn": 4,
+                        "startOffset": 14417,
+                        "endColumn": 47,
+                        "endOffset": 14460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 14465,
+                    "endColumn": 54,
+                    "endOffset": 14515
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 364,
+                        "startColumn": 4,
+                        "startOffset": 14465,
+                        "endColumn": 54,
+                        "endOffset": 14515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 14520,
+                    "endColumn": 56,
+                    "endOffset": 14572
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 365,
+                        "startColumn": 4,
+                        "startOffset": 14520,
+                        "endColumn": 56,
+                        "endOffset": 14572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 14577,
+                    "endColumn": 54,
+                    "endOffset": 14627
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 366,
+                        "startColumn": 4,
+                        "startOffset": 14577,
+                        "endColumn": 54,
+                        "endOffset": 14627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 14632,
+                    "endColumn": 51,
+                    "endOffset": 14679
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 367,
+                        "startColumn": 4,
+                        "startOffset": 14632,
+                        "endColumn": 51,
+                        "endOffset": 14679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 14684,
+                    "endColumn": 71,
+                    "endOffset": 14751
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 368,
+                        "startColumn": 4,
+                        "startOffset": 14684,
+                        "endColumn": 71,
+                        "endOffset": 14751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 14756,
+                    "endColumn": 74,
+                    "endOffset": 14826
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 369,
+                        "startColumn": 4,
+                        "startOffset": 14756,
+                        "endColumn": 74,
+                        "endOffset": 14826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 14831,
+                    "endColumn": 78,
+                    "endOffset": 14905
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 370,
+                        "startColumn": 4,
+                        "startOffset": 14831,
+                        "endColumn": 78,
+                        "endOffset": 14905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 14910,
+                    "endColumn": 71,
+                    "endOffset": 14977
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 371,
+                        "startColumn": 4,
+                        "startOffset": 14910,
+                        "endColumn": 71,
+                        "endOffset": 14977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 14982,
+                    "endColumn": 71,
+                    "endOffset": 15049
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 372,
+                        "startColumn": 4,
+                        "startOffset": 14982,
+                        "endColumn": 71,
+                        "endOffset": 15049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 15054,
+                    "endColumn": 69,
+                    "endOffset": 15119
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 373,
+                        "startColumn": 4,
+                        "startOffset": 15054,
+                        "endColumn": 69,
+                        "endOffset": 15119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 15124,
+                    "endColumn": 70,
+                    "endOffset": 15190
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 374,
+                        "startColumn": 4,
+                        "startOffset": 15124,
+                        "endColumn": 70,
+                        "endOffset": 15190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 15195,
+                    "endColumn": 66,
+                    "endOffset": 15257
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 375,
+                        "startColumn": 4,
+                        "startOffset": 15195,
+                        "endColumn": 66,
+                        "endOffset": 15257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 15262,
+                    "endColumn": 73,
+                    "endOffset": 15331
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 376,
+                        "startColumn": 4,
+                        "startOffset": 15262,
+                        "endColumn": 73,
+                        "endOffset": 15331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 15336,
+                    "endColumn": 68,
+                    "endOffset": 15400
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 377,
+                        "startColumn": 4,
+                        "startOffset": 15336,
+                        "endColumn": 68,
+                        "endOffset": 15400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 15405,
+                    "endColumn": 62,
+                    "endOffset": 15463
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 378,
+                        "startColumn": 4,
+                        "startOffset": 15405,
+                        "endColumn": 62,
+                        "endOffset": 15463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 15468,
+                    "endColumn": 79,
+                    "endOffset": 15543
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 379,
+                        "startColumn": 4,
+                        "startOffset": 15468,
+                        "endColumn": 79,
+                        "endOffset": 15543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 15548,
+                    "endColumn": 70,
+                    "endOffset": 15614
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 380,
+                        "startColumn": 4,
+                        "startOffset": 15548,
+                        "endColumn": 70,
+                        "endOffset": 15614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 15619,
+                    "endColumn": 70,
+                    "endOffset": 15685
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 381,
+                        "startColumn": 4,
+                        "startOffset": 15619,
+                        "endColumn": 70,
+                        "endOffset": 15685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 15690,
+                    "endColumn": 66,
+                    "endOffset": 15752
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 382,
+                        "startColumn": 4,
+                        "startOffset": 15690,
+                        "endColumn": 66,
+                        "endOffset": 15752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 15757,
+                    "endColumn": 68,
+                    "endOffset": 15821
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 383,
+                        "startColumn": 4,
+                        "startOffset": 15757,
+                        "endColumn": 68,
+                        "endOffset": 15821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 15826,
+                    "endColumn": 73,
+                    "endOffset": 15895
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 384,
+                        "startColumn": 4,
+                        "startOffset": 15826,
+                        "endColumn": 73,
+                        "endOffset": 15895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 15900,
+                    "endColumn": 43,
+                    "endOffset": 15939
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 385,
+                        "startColumn": 4,
+                        "startOffset": 15900,
+                        "endColumn": 43,
+                        "endOffset": 15939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 15944,
+                    "endColumn": 59,
+                    "endOffset": 15999
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 386,
+                        "startColumn": 4,
+                        "startOffset": 15944,
+                        "endColumn": 59,
+                        "endOffset": 15999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 16004,
+                    "endColumn": 61,
+                    "endOffset": 16061
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 387,
+                        "startColumn": 4,
+                        "startOffset": 16004,
+                        "endColumn": 61,
+                        "endOffset": 16061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 16066,
+                    "endColumn": 43,
+                    "endOffset": 16105
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 388,
+                        "startColumn": 4,
+                        "startOffset": 16066,
+                        "endColumn": 43,
+                        "endOffset": 16105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 16110,
+                    "endColumn": 47,
+                    "endOffset": 16153
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 389,
+                        "startColumn": 4,
+                        "startOffset": 16110,
+                        "endColumn": 47,
+                        "endOffset": 16153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 16158,
+                    "endColumn": 60,
+                    "endOffset": 16214
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 390,
+                        "startColumn": 4,
+                        "startOffset": 16158,
+                        "endColumn": 60,
+                        "endOffset": 16214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 16219,
+                    "endColumn": 62,
+                    "endOffset": 16277
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 391,
+                        "startColumn": 4,
+                        "startOffset": 16219,
+                        "endColumn": 62,
+                        "endOffset": 16277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 16282,
+                    "endColumn": 43,
+                    "endOffset": 16321
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 392,
+                        "startColumn": 4,
+                        "startOffset": 16282,
+                        "endColumn": 43,
+                        "endOffset": 16321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 16326,
+                    "endColumn": 80,
+                    "endOffset": 16402
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 393,
+                        "startColumn": 4,
+                        "startOffset": 16326,
+                        "endColumn": 80,
+                        "endOffset": 16402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 16407,
+                    "endColumn": 80,
+                    "endOffset": 16483
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 394,
+                        "startColumn": 4,
+                        "startOffset": 16407,
+                        "endColumn": 80,
+                        "endOffset": 16483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 16488,
+                    "endColumn": 71,
+                    "endOffset": 16555
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 395,
+                        "startColumn": 4,
+                        "startOffset": 16488,
+                        "endColumn": 71,
+                        "endOffset": 16555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 16560,
+                    "endColumn": 88,
+                    "endOffset": 16644
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 396,
+                        "startColumn": 4,
+                        "startOffset": 16560,
+                        "endColumn": 88,
+                        "endOffset": 16644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 16649,
+                    "endColumn": 87,
+                    "endOffset": 16732
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 397,
+                        "startColumn": 4,
+                        "startOffset": 16649,
+                        "endColumn": 87,
+                        "endOffset": 16732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 16737,
+                    "endColumn": 77,
+                    "endOffset": 16810
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 398,
+                        "startColumn": 4,
+                        "startOffset": 16737,
+                        "endColumn": 77,
+                        "endOffset": 16810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 16815,
+                    "endColumn": 80,
+                    "endOffset": 16891
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 399,
+                        "startColumn": 4,
+                        "startOffset": 16815,
+                        "endColumn": 80,
+                        "endOffset": 16891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 16896,
+                    "endColumn": 85,
+                    "endOffset": 16977
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 400,
+                        "startColumn": 4,
+                        "startOffset": 16896,
+                        "endColumn": 85,
+                        "endOffset": 16977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 16982,
+                    "endColumn": 60,
+                    "endOffset": 17038
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 401,
+                        "startColumn": 4,
+                        "startOffset": 16982,
+                        "endColumn": 60,
+                        "endOffset": 17038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 17043,
+                    "endColumn": 53,
+                    "endOffset": 17092
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 402,
+                        "startColumn": 4,
+                        "startOffset": 17043,
+                        "endColumn": 53,
+                        "endOffset": 17092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 17097,
+                    "endColumn": 51,
+                    "endOffset": 17144
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 403,
+                        "startColumn": 4,
+                        "startOffset": 17097,
+                        "endColumn": 51,
+                        "endOffset": 17144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 17149,
+                    "endColumn": 65,
+                    "endOffset": 17210
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 404,
+                        "startColumn": 4,
+                        "startOffset": 17149,
+                        "endColumn": 65,
+                        "endOffset": 17210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 17215,
+                    "endColumn": 64,
+                    "endOffset": 17275
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 405,
+                        "startColumn": 4,
+                        "startOffset": 17215,
+                        "endColumn": 64,
+                        "endOffset": 17275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 17280,
+                    "endColumn": 59,
+                    "endOffset": 17335
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 406,
+                        "startColumn": 4,
+                        "startOffset": 17280,
+                        "endColumn": 59,
+                        "endOffset": 17335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 17340,
+                    "endColumn": 61,
+                    "endOffset": 17397
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 407,
+                        "startColumn": 4,
+                        "startOffset": 17340,
+                        "endColumn": 61,
+                        "endOffset": 17397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 17402,
+                    "endColumn": 54,
+                    "endOffset": 17452
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 408,
+                        "startColumn": 4,
+                        "startOffset": 17402,
+                        "endColumn": 54,
+                        "endOffset": 17452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 17457,
+                    "endColumn": 49,
+                    "endOffset": 17502
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 409,
+                        "startColumn": 4,
+                        "startOffset": 17457,
+                        "endColumn": 49,
+                        "endOffset": 17502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 17507,
+                    "endColumn": 44,
+                    "endOffset": 17547
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 410,
+                        "startColumn": 4,
+                        "startOffset": 17507,
+                        "endColumn": 44,
+                        "endOffset": 17547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 17552,
+                    "endColumn": 48,
+                    "endOffset": 17596
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 411,
+                        "startColumn": 4,
+                        "startOffset": 17552,
+                        "endColumn": 48,
+                        "endOffset": 17596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 17601,
+                    "endColumn": 60,
+                    "endOffset": 17657
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 412,
+                        "startColumn": 4,
+                        "startOffset": 17601,
+                        "endColumn": 60,
+                        "endOffset": 17657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 17662,
+                    "endColumn": 57,
+                    "endOffset": 17715
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 413,
+                        "startColumn": 4,
+                        "startOffset": 17662,
+                        "endColumn": 57,
+                        "endOffset": 17715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 17720,
+                    "endColumn": 57,
+                    "endOffset": 17773
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 414,
+                        "startColumn": 4,
+                        "startOffset": 17720,
+                        "endColumn": 57,
+                        "endOffset": 17773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 17778,
+                    "endColumn": 60,
+                    "endOffset": 17834
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 415,
+                        "startColumn": 4,
+                        "startOffset": 17778,
+                        "endColumn": 60,
+                        "endOffset": 17834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 17839,
+                    "endColumn": 61,
+                    "endOffset": 17896
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 416,
+                        "startColumn": 4,
+                        "startOffset": 17839,
+                        "endColumn": 61,
+                        "endOffset": 17896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 417,
+                    "startColumn": 4,
+                    "startOffset": 17901,
+                    "endColumn": 57,
+                    "endOffset": 17954
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 417,
+                        "startColumn": 4,
+                        "startOffset": 17901,
+                        "endColumn": 57,
+                        "endOffset": 17954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 17959,
+                    "endColumn": 60,
+                    "endOffset": 18015
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 418,
+                        "startColumn": 4,
+                        "startOffset": 17959,
+                        "endColumn": 60,
+                        "endOffset": 18015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 419,
+                    "startColumn": 4,
+                    "startOffset": 18020,
+                    "endColumn": 57,
+                    "endOffset": 18073
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 419,
+                        "startColumn": 4,
+                        "startOffset": 18020,
+                        "endColumn": 57,
+                        "endOffset": 18073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 420,
+                    "startColumn": 4,
+                    "startOffset": 18078,
+                    "endColumn": 38,
+                    "endOffset": 18112
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 420,
+                        "startColumn": 4,
+                        "startOffset": 18078,
+                        "endColumn": 38,
+                        "endOffset": 18112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 18117,
+                    "endColumn": 51,
+                    "endOffset": 18164
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 421,
+                        "startColumn": 4,
+                        "startOffset": 18117,
+                        "endColumn": 51,
+                        "endOffset": 18164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 18169,
+                    "endColumn": 58,
+                    "endOffset": 18223
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 422,
+                        "startColumn": 4,
+                        "startOffset": 18169,
+                        "endColumn": 58,
+                        "endOffset": 18223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 18228,
+                    "endColumn": 51,
+                    "endOffset": 18275
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 423,
+                        "startColumn": 4,
+                        "startOffset": 18228,
+                        "endColumn": 51,
+                        "endOffset": 18275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 18280,
+                    "endColumn": 56,
+                    "endOffset": 18332
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 424,
+                        "startColumn": 4,
+                        "startOffset": 18280,
+                        "endColumn": 56,
+                        "endOffset": 18332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 18337,
+                    "endColumn": 63,
+                    "endOffset": 18396
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 425,
+                        "startColumn": 4,
+                        "startOffset": 18337,
+                        "endColumn": 63,
+                        "endOffset": 18396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 18401,
+                    "endColumn": 68,
+                    "endOffset": 18465
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 426,
+                        "startColumn": 4,
+                        "startOffset": 18401,
+                        "endColumn": 68,
+                        "endOffset": 18465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 427,
+                    "startColumn": 4,
+                    "startOffset": 18470,
+                    "endColumn": 59,
+                    "endOffset": 18525
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 427,
+                        "startColumn": 4,
+                        "startOffset": 18470,
+                        "endColumn": 59,
+                        "endOffset": 18525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 18530,
+                    "endColumn": 57,
+                    "endOffset": 18583
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 428,
+                        "startColumn": 4,
+                        "startOffset": 18530,
+                        "endColumn": 57,
+                        "endOffset": 18583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 429,
+                    "startColumn": 4,
+                    "startOffset": 18588,
+                    "endColumn": 57,
+                    "endOffset": 18641
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 429,
+                        "startColumn": 4,
+                        "startOffset": 18588,
+                        "endColumn": 57,
+                        "endOffset": 18641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 430,
+                    "startColumn": 4,
+                    "startOffset": 18646,
+                    "endColumn": 58,
+                    "endOffset": 18700
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 430,
+                        "startColumn": 4,
+                        "startOffset": 18646,
+                        "endColumn": 58,
+                        "endOffset": 18700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 18705,
+                    "endColumn": 69,
+                    "endOffset": 18770
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 431,
+                        "startColumn": 4,
+                        "startOffset": 18705,
+                        "endColumn": 69,
+                        "endOffset": 18770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 432,
+                    "startColumn": 4,
+                    "startOffset": 18775,
+                    "endColumn": 59,
+                    "endOffset": 18830
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 432,
+                        "startColumn": 4,
+                        "startOffset": 18775,
+                        "endColumn": 59,
+                        "endOffset": 18830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 18835,
+                    "endColumn": 65,
+                    "endOffset": 18896
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 433,
+                        "startColumn": 4,
+                        "startOffset": 18835,
+                        "endColumn": 65,
+                        "endOffset": 18896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 18901,
+                    "endColumn": 74,
+                    "endOffset": 18971
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 434,
+                        "startColumn": 4,
+                        "startOffset": 18901,
+                        "endColumn": 74,
+                        "endOffset": 18971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 435,
+                    "startColumn": 4,
+                    "startOffset": 18976,
+                    "endColumn": 55,
+                    "endOffset": 19027
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 435,
+                        "startColumn": 4,
+                        "startOffset": 18976,
+                        "endColumn": 55,
+                        "endOffset": 19027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 19032,
+                    "endColumn": 66,
+                    "endOffset": 19094
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 436,
+                        "startColumn": 4,
+                        "startOffset": 19032,
+                        "endColumn": 66,
+                        "endOffset": 19094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 437,
+                    "startColumn": 4,
+                    "startOffset": 19099,
+                    "endColumn": 77,
+                    "endOffset": 19172
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 437,
+                        "startColumn": 4,
+                        "startOffset": 19099,
+                        "endColumn": 77,
+                        "endOffset": 19172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 19177,
+                    "endColumn": 64,
+                    "endOffset": 19237
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 438,
+                        "startColumn": 4,
+                        "startOffset": 19177,
+                        "endColumn": 64,
+                        "endOffset": 19237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 439,
+                    "startColumn": 4,
+                    "startOffset": 19242,
+                    "endColumn": 48,
+                    "endOffset": 19286
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 439,
+                        "startColumn": 4,
+                        "startOffset": 19242,
+                        "endColumn": 48,
+                        "endOffset": 19286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 19291,
+                    "endColumn": 47,
+                    "endOffset": 19334
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 440,
+                        "startColumn": 4,
+                        "startOffset": 19291,
+                        "endColumn": 47,
+                        "endOffset": 19334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 19339,
+                    "endColumn": 50,
+                    "endOffset": 19385
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 441,
+                        "startColumn": 4,
+                        "startOffset": 19339,
+                        "endColumn": 50,
+                        "endOffset": 19385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 19390,
+                    "endColumn": 48,
+                    "endOffset": 19434
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 442,
+                        "startColumn": 4,
+                        "startOffset": 19390,
+                        "endColumn": 48,
+                        "endOffset": 19434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 19439,
+                    "endColumn": 64,
+                    "endOffset": 19499
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 443,
+                        "startColumn": 4,
+                        "startOffset": 19439,
+                        "endColumn": 64,
+                        "endOffset": 19499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 19504,
+                    "endColumn": 64,
+                    "endOffset": 19564
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 444,
+                        "startColumn": 4,
+                        "startOffset": 19504,
+                        "endColumn": 64,
+                        "endOffset": 19564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 19569,
+                    "endColumn": 59,
+                    "endOffset": 19624
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 445,
+                        "startColumn": 4,
+                        "startOffset": 19569,
+                        "endColumn": 59,
+                        "endOffset": 19624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 19629,
+                    "endColumn": 57,
+                    "endOffset": 19682
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 446,
+                        "startColumn": 4,
+                        "startOffset": 19629,
+                        "endColumn": 57,
+                        "endOffset": 19682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 19687,
+                    "endColumn": 61,
+                    "endOffset": 19744
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 447,
+                        "startColumn": 4,
+                        "startOffset": 19687,
+                        "endColumn": 61,
+                        "endOffset": 19744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 19749,
+                    "endColumn": 56,
+                    "endOffset": 19801
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 448,
+                        "startColumn": 4,
+                        "startOffset": 19749,
+                        "endColumn": 56,
+                        "endOffset": 19801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 19806,
+                    "endColumn": 44,
+                    "endOffset": 19846
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 449,
+                        "startColumn": 4,
+                        "startOffset": 19806,
+                        "endColumn": 44,
+                        "endOffset": 19846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 19851,
+                    "endColumn": 75,
+                    "endOffset": 19922
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 450,
+                        "startColumn": 4,
+                        "startOffset": 19851,
+                        "endColumn": 75,
+                        "endOffset": 19922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 19927,
+                    "endColumn": 51,
+                    "endOffset": 19974
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 451,
+                        "startColumn": 4,
+                        "startOffset": 19927,
+                        "endColumn": 51,
+                        "endOffset": 19974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 19979,
+                    "endColumn": 60,
+                    "endOffset": 20035
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 452,
+                        "startColumn": 4,
+                        "startOffset": 19979,
+                        "endColumn": 60,
+                        "endOffset": 20035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 20040,
+                    "endColumn": 60,
+                    "endOffset": 20096
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 453,
+                        "startColumn": 4,
+                        "startOffset": 20040,
+                        "endColumn": 60,
+                        "endOffset": 20096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 20101,
+                    "endColumn": 68,
+                    "endOffset": 20165
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 454,
+                        "startColumn": 4,
+                        "startOffset": 20101,
+                        "endColumn": 68,
+                        "endOffset": 20165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 20170,
+                    "endColumn": 63,
+                    "endOffset": 20229
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 455,
+                        "startColumn": 4,
+                        "startOffset": 20170,
+                        "endColumn": 63,
+                        "endOffset": 20229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 20234,
+                    "endColumn": 64,
+                    "endOffset": 20294
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 456,
+                        "startColumn": 4,
+                        "startOffset": 20234,
+                        "endColumn": 64,
+                        "endOffset": 20294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 20299,
+                    "endColumn": 73,
+                    "endOffset": 20368
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 457,
+                        "startColumn": 4,
+                        "startOffset": 20299,
+                        "endColumn": 73,
+                        "endOffset": 20368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 20373,
+                    "endColumn": 77,
+                    "endOffset": 20446
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 458,
+                        "startColumn": 4,
+                        "startOffset": 20373,
+                        "endColumn": 77,
+                        "endOffset": 20446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 20451,
+                    "endColumn": 46,
+                    "endOffset": 20493
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 459,
+                        "startColumn": 4,
+                        "startOffset": 20451,
+                        "endColumn": 46,
+                        "endOffset": 20493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 20498,
+                    "endColumn": 49,
+                    "endOffset": 20543
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 460,
+                        "startColumn": 4,
+                        "startOffset": 20498,
+                        "endColumn": 49,
+                        "endOffset": 20543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 461,
+                    "startColumn": 4,
+                    "startOffset": 20548,
+                    "endColumn": 58,
+                    "endOffset": 20602
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 461,
+                        "startColumn": 4,
+                        "startOffset": 20548,
+                        "endColumn": 58,
+                        "endOffset": 20602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 462,
+                    "startColumn": 4,
+                    "startOffset": 20607,
+                    "endColumn": 53,
+                    "endOffset": 20656
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 462,
+                        "startColumn": 4,
+                        "startOffset": 20607,
+                        "endColumn": 53,
+                        "endOffset": 20656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 463,
+                    "startColumn": 4,
+                    "startOffset": 20661,
+                    "endColumn": 65,
+                    "endOffset": 20722
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 463,
+                        "startColumn": 4,
+                        "startOffset": 20661,
+                        "endColumn": 65,
+                        "endOffset": 20722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 20727,
+                    "endColumn": 59,
+                    "endOffset": 20782
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 464,
+                        "startColumn": 4,
+                        "startOffset": 20727,
+                        "endColumn": 59,
+                        "endOffset": 20782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 465,
+                    "startColumn": 4,
+                    "startOffset": 20787,
+                    "endColumn": 61,
+                    "endOffset": 20844
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 465,
+                        "startColumn": 4,
+                        "startOffset": 20787,
+                        "endColumn": 61,
+                        "endOffset": 20844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 466,
+                    "startColumn": 4,
+                    "startOffset": 20849,
+                    "endColumn": 50,
+                    "endOffset": 20895
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 466,
+                        "startColumn": 4,
+                        "startOffset": 20849,
+                        "endColumn": 50,
+                        "endOffset": 20895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 467,
+                    "startColumn": 4,
+                    "startOffset": 20900,
+                    "endColumn": 50,
+                    "endOffset": 20946
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 467,
+                        "startColumn": 4,
+                        "startOffset": 20900,
+                        "endColumn": 50,
+                        "endOffset": 20946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 20951,
+                    "endColumn": 49,
+                    "endOffset": 20996
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 468,
+                        "startColumn": 4,
+                        "startOffset": 20951,
+                        "endColumn": 49,
+                        "endOffset": 20996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 469,
+                    "startColumn": 4,
+                    "startOffset": 21001,
+                    "endColumn": 62,
+                    "endOffset": 21059
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 469,
+                        "startColumn": 4,
+                        "startOffset": 21001,
+                        "endColumn": 62,
+                        "endOffset": 21059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 21064,
+                    "endColumn": 42,
+                    "endOffset": 21102
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 470,
+                        "startColumn": 4,
+                        "startOffset": 21064,
+                        "endColumn": 42,
+                        "endOffset": 21102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 471,
+                    "startColumn": 4,
+                    "startOffset": 21107,
+                    "endColumn": 36,
+                    "endOffset": 21139
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 471,
+                        "startColumn": 4,
+                        "startOffset": 21107,
+                        "endColumn": 36,
+                        "endOffset": 21139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 472,
+                    "startColumn": 4,
+                    "startOffset": 21144,
+                    "endColumn": 55,
+                    "endOffset": 21195
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 472,
+                        "startColumn": 4,
+                        "startOffset": 21144,
+                        "endColumn": 55,
+                        "endOffset": 21195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 473,
+                    "startColumn": 4,
+                    "startOffset": 21200,
+                    "endLine": 481,
+                    "endColumn": 12,
+                    "endOffset": 21826
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 473,
+                        "startColumn": 4,
+                        "startOffset": 21200,
+                        "endLine": 481,
+                        "endColumn": 12,
+                        "endOffset": 21826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 482,
+                    "startColumn": 4,
+                    "startOffset": 21831,
+                    "endLine": 485,
+                    "endColumn": 12,
+                    "endOffset": 22048
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 482,
+                        "startColumn": 4,
+                        "startOffset": 21831,
+                        "endLine": 485,
+                        "endColumn": 12,
+                        "endOffset": 22048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 22053,
+                    "endLine": 489,
+                    "endColumn": 12,
+                    "endOffset": 22256
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 486,
+                        "startColumn": 4,
+                        "startOffset": 22053,
+                        "endLine": 489,
+                        "endColumn": 12,
+                        "endOffset": 22256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 22261,
+                    "endLine": 494,
+                    "endColumn": 12,
+                    "endOffset": 22524
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 490,
+                        "startColumn": 4,
+                        "startOffset": 22261,
+                        "endLine": 494,
+                        "endColumn": 12,
+                        "endOffset": 22524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 495,
+                    "startColumn": 4,
+                    "startOffset": 22529,
+                    "endLine": 503,
+                    "endColumn": 12,
+                    "endOffset": 23019
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 495,
+                        "startColumn": 4,
+                        "startOffset": 22529,
+                        "endLine": 503,
+                        "endColumn": 12,
+                        "endOffset": 23019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 504,
+                    "startColumn": 4,
+                    "startOffset": 23024,
+                    "endLine": 506,
+                    "endColumn": 12,
+                    "endOffset": 23102
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 504,
+                        "startColumn": 4,
+                        "startOffset": 23024,
+                        "endLine": 506,
+                        "endColumn": 12,
+                        "endOffset": 23102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 507,
+                    "startColumn": 4,
+                    "startOffset": 23107,
+                    "endLine": 509,
+                    "endColumn": 12,
+                    "endOffset": 23184
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 507,
+                        "startColumn": 4,
+                        "startOffset": 23107,
+                        "endLine": 509,
+                        "endColumn": 12,
+                        "endOffset": 23184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 510,
+                    "startColumn": 4,
+                    "startOffset": 23189,
+                    "endLine": 512,
+                    "endColumn": 12,
+                    "endOffset": 23362
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 510,
+                        "startColumn": 4,
+                        "startOffset": 23189,
+                        "endLine": 512,
+                        "endColumn": 12,
+                        "endOffset": 23362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 513,
+                    "startColumn": 4,
+                    "startOffset": 23367,
+                    "endLine": 515,
+                    "endColumn": 12,
+                    "endOffset": 23445
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 513,
+                        "startColumn": 4,
+                        "startOffset": 23367,
+                        "endLine": 515,
+                        "endColumn": 12,
+                        "endOffset": 23445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 516,
+                    "startColumn": 4,
+                    "startOffset": 23450,
+                    "endLine": 520,
+                    "endColumn": 12,
+                    "endOffset": 23733
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 516,
+                        "startColumn": 4,
+                        "startOffset": 23450,
+                        "endLine": 520,
+                        "endColumn": 12,
+                        "endOffset": 23733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 521,
+                    "startColumn": 4,
+                    "startOffset": 23738,
+                    "endLine": 523,
+                    "endColumn": 12,
+                    "endOffset": 23815
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 521,
+                        "startColumn": 4,
+                        "startOffset": 23738,
+                        "endLine": 523,
+                        "endColumn": 12,
+                        "endOffset": 23815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 524,
+                    "startColumn": 4,
+                    "startOffset": 23820,
+                    "endLine": 531,
+                    "endColumn": 12,
+                    "endOffset": 24277
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 524,
+                        "startColumn": 4,
+                        "startOffset": 23820,
+                        "endLine": 531,
+                        "endColumn": 12,
+                        "endOffset": 24277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 532,
+                    "startColumn": 4,
+                    "startOffset": 24282,
+                    "endLine": 534,
+                    "endColumn": 12,
+                    "endOffset": 24455
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 532,
+                        "startColumn": 4,
+                        "startOffset": 24282,
+                        "endLine": 534,
+                        "endColumn": 12,
+                        "endOffset": 24455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 535,
+                    "startColumn": 4,
+                    "startOffset": 24460,
+                    "endLine": 539,
+                    "endColumn": 12,
+                    "endOffset": 24709
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 535,
+                        "startColumn": 4,
+                        "startOffset": 24460,
+                        "endLine": 539,
+                        "endColumn": 12,
+                        "endOffset": 24709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 540,
+                    "startColumn": 4,
+                    "startOffset": 24714,
+                    "endLine": 542,
+                    "endColumn": 12,
+                    "endOffset": 24886
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 540,
+                        "startColumn": 4,
+                        "startOffset": 24714,
+                        "endLine": 542,
+                        "endColumn": 12,
+                        "endOffset": 24886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 543,
+                    "startColumn": 4,
+                    "startOffset": 24891,
+                    "endLine": 547,
+                    "endColumn": 12,
+                    "endOffset": 25138
+                },
+                "from": {
+                    "file": "D:\\xrtz\\RongIM\\IMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 543,
+                        "startColumn": 4,
+                        "startOffset": 24891,
+                        "endLine": 547,
+                        "endColumn": 12,
+                        "endOffset": 25138
+                    }
+                }
+            }
+        ]
+    }
+]
